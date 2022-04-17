@@ -1,4 +1,4 @@
-# DS-Projects
+## Data structures used so far.
 - [x] Arrays
 - [ ] Linked Lists
 - [ ] Stacks
@@ -8,4 +8,4 @@
 - [ ] Heaps
 - [ ] Graphs
 
-##### <span style="color:white;"><mark style="background: #021C1E" >🛑 Suggestions are greatly appreciated </span></mark> 
+##### <span style="color:white;"><mark style="background: #021C1E" >🛑 Suggestions are greatly appreciated. </span></mark> 
