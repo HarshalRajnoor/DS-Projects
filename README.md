@@ -1,4 +1,4 @@
-## Data structures used so far.
+## Data structures used so far:
 - [x] Arrays
 - [ ] Linked Lists
 - [ ] Stacks
